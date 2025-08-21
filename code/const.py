@@ -9,4 +9,4 @@ MENU_OPTION = ('NEW GAME 1P',
                'EXIT')
 
 WIN_WIDTH = 1000
-WIN_HEIGHT = 600
+WIN_HEIGHT = 500
